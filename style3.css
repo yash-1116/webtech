@@ -1,0 +1,16 @@
+body
+{
+background: green;
+font-family: "Courier New", monospace;
+}
+h1
+{
+background: green;
+color: white;
+padding: 10px;
+}
+right
+{
+background: darkgreen;
+color: white;
+}
